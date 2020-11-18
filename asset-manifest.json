@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Simple-Blog-Using-React/static/css/main.7396c605.chunk.css",
+    "main.js": "/Simple-Blog-Using-React/static/js/main.00f86ebf.chunk.js",
+    "main.js.map": "/Simple-Blog-Using-React/static/js/main.00f86ebf.chunk.js.map",
+    "runtime-main.js": "/Simple-Blog-Using-React/static/js/runtime-main.e474f193.js",
+    "runtime-main.js.map": "/Simple-Blog-Using-React/static/js/runtime-main.e474f193.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Simple-Blog-Using-React/static/css/2.2a86faee.chunk.css",
+    "static/js/2.dae6a20f.chunk.js": "/Simple-Blog-Using-React/static/js/2.dae6a20f.chunk.js",
+    "static/js/2.dae6a20f.chunk.js.map": "/Simple-Blog-Using-React/static/js/2.dae6a20f.chunk.js.map",
+    "index.html": "/Simple-Blog-Using-React/index.html",
+    "precache-manifest.06bfb1c63d18c96908b99d6f072e6f98.js": "/Simple-Blog-Using-React/precache-manifest.06bfb1c63d18c96908b99d6f072e6f98.js",
+    "service-worker.js": "/Simple-Blog-Using-React/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Simple-Blog-Using-React/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.7396c605.chunk.css.map": "/Simple-Blog-Using-React/static/css/main.7396c605.chunk.css.map",
+    "static/js/2.dae6a20f.chunk.js.LICENSE.txt": "/Simple-Blog-Using-React/static/js/2.dae6a20f.chunk.js.LICENSE.txt",
+    "static/media/2.jpg": "/Simple-Blog-Using-React/static/media/2.4b45632a.jpg",
+    "static/media/t1.jpg": "/Simple-Blog-Using-React/static/media/t1.e54a8b40.jpg",
+    "static/media/t2.jpg": "/Simple-Blog-Using-React/static/media/t2.55be92c0.jpg",
+    "static/media/t4.jpg": "/Simple-Blog-Using-React/static/media/t4.8ab99cc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e474f193.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.dae6a20f.chunk.js",
+    "static/css/main.7396c605.chunk.css",
+    "static/js/main.00f86ebf.chunk.js"
+  ]
+}
