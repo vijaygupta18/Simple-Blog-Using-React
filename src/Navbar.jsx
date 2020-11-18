@@ -1,5 +1,5 @@
-import React, { createContext, useEffect, useState } from 'react';
-import "./index.css"
+import React from 'react';
+import "./index.css";
 import {NavLink} from 'react-router-dom';
 
 const Navbar = () => {

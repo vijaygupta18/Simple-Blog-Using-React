@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 
+
 const Home = () => {
     return (
         <>
@@ -31,7 +32,7 @@ const Home = () => {
                                                 <h3 className="mb-0">Learn Web development</h3>
                                                 <div className="mb-1 text-muted">June30</div>
                                                 <p className="card-text mb-auto">This is a simple blog to give you a brief idea about web development.<br/>What? Where? How?</p>
-                                                <Link to="" className="stretched-link">Continue reading</Link>
+                                                <Link to="web" className="stretched-link">Continue reading</Link>
                                             </div>
                                             <div className="col-auto d-none d-lg-block">
                                                 <img className="bd-placeholder-img" width="200" height="250" src={require('./img/t2.jpg')} alt="" />
@@ -45,7 +46,7 @@ const Home = () => {
                                                 <h3 className="mb-0">Coding platforms</h3>
                                                 <div className="mb-1 text-muted">July01</div>
                                                 <p className="mb-auto">This Blog is for those who wants to start coding.<br></br>Which language? Where?</p>
-                                                <a href="" className="stretched-link">Continue reading</a>
+                                                <Link to="code" className="stretched-link">Continue reading</Link>
                                             </div>
                                             <div className="col-auto d-none d-lg-block">
                                                 <img className="bd-placeholder-img" width="200" height="250" src={require('./img/t4.jpg')} alt="" />

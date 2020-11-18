@@ -1,4 +1,4 @@
-import React, { createContext, useEffect, useState } from 'react';
+import React from 'react';
 
 
 const About = () => {
@@ -6,7 +6,7 @@ const About = () => {
     <>
       <div classNameName="container-fluid nav_bg">
         <div classNameName="row">
-          <div classNameName="col-10 mx-auto"></div>
+          <div classNameName="col-10 mx-auto">
           <div className="container">
             <br></br>
             <br></br>
@@ -71,6 +71,7 @@ const About = () => {
             </div>
           </div>
         </div>
+      </div>
       </div>
       <br></br>
       <br></br>
